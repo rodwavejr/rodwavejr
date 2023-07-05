@@ -1,16 +1,13 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+### Hi there  💻
+### This is Semi Babafemi!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Data Science Masters degree at Syracuse University!  
 
-Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/rodwavejr/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-#### 🌱 Things I am currently working on: 
+
+#### 🌐 Things I am currently working on: 
 - Finish my Data Science Masters Degree 
 - Taking online courses about Machine Learning and Quantitative Finance 
 - StockProphet: A Neural Network Approach for Stock Price Prediction
