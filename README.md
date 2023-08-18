@@ -1,7 +1,7 @@
 ### Hi there  💻
 ### This is Semi Babafemi!
 
-Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Data Science Masters degree at Syracuse University!  
+Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Data Science Bachelors degree at Syracuse University!  
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -11,7 +11,7 @@ Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Da
 - Finish my Data Science Masters Degree 
 - Taking online courses about Machine Learning and Quantitative Finance 
 - StockProphet: A Neural Network Approach for Stock Price Prediction
-- MatrixOptions: Utilizing Random Matrix Theory for Options Pricing with Monte Carlo Simulation
+- The Oracle: Harnessing BERT's prowess to ride the sentiment tides of the stock market
   
 
 #### :computer: Programming languages and tools: 
