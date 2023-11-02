@@ -9,7 +9,7 @@ Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Da
 
 #### 🌐 Things I am currently working on: 
 - Pursuing my Data Science Masters Degree 
-- Taking online courses about Machine Learning and Quantitative Finance 
+- UberGo: Predicting stock price movements using BERT for sentiment analysis, NMC for state predictions, and LSTM for time-series forecasting.
 - StockProphet: A Neural Network Approach for Stock Price Prediction
 - The Oracle: Harnessing BERT's prowess to ride the sentiment tides of the stock market
   
