@@ -8,7 +8,7 @@ Welcome to my Github page! I am Semi Babafemi and I am currently finishing my Da
 
 
 #### 🌐 Things I am currently working on: 
-- Finish my Data Science Masters Degree 
+- Pursuing my Data Science Masters Degree 
 - Taking online courses about Machine Learning and Quantitative Finance 
 - StockProphet: A Neural Network Approach for Stock Price Prediction
 - The Oracle: Harnessing BERT's prowess to ride the sentiment tides of the stock market
