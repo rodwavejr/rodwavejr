@@ -2,7 +2,7 @@
 ### I'm Semi Babafemi — Quant Developer & Applied AI Researcher
 
 Welcome to my GitHub!  
-I'm currently completing my Master’s Degree in Applied Data Science at Syracuse University, while working as a Quant Developer at BNY Mellon.
+I'm currently completing my Master’s Degree in Applied Data Science at Syracuse University, while working as a Quant Developer at BNY .
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -19,7 +19,7 @@ I'm currently completing my Master’s Degree in Applied Data Science at Syracus
   Built a two-stage pipeline that uses **Named Entity Recognition (NER)** to extract clinical symptoms and **BioBERT** fine-tuning to predict infection likelihood, enabling faster triage decisions and supporting clinicians during diagnostic bottlenecks.
 
 - **Agentic AI Systems for Finance**:  
-  Designing chain-of-thought-driven LLM agents that interact with financial models (CCAR, callable bonds, risk frameworks) at BNY Mellon.
+  Designing chain-of-thought-driven LLM agents that interact with financial models (CCAR, callable bonds, risk frameworks).
 
 - **Deep Learning Exploration**:  
   Researching wide & deep networks, optimization schedules (1cycle), and activation functions like Mish, Swish, and GELU for robust model training.
